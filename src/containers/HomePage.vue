@@ -30,16 +30,16 @@ export default {
       msg: 'Welcome to Theo Class',
       carouselItems: [
         {
-          src: '/static/1.jpg'
+          src: 'static/1.jpg'
         },
         {
-          src: '/static/2.jpg'
+          src: 'static/2.jpg'
         },
         {
-          src: '/static/3.jpg'
+          src: 'static/3.jpg'
         },
         {
-          src: '/static/5.jpg'
+          src: 'static/5.jpg'
         }
       ]
     }

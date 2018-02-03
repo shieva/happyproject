@@ -4,7 +4,7 @@
       <v-list class="pa-0">
         <v-list-tile avatar>
           <v-list-tile-avatar>
-            <img src="/static/avatar.JPG" >
+            <img src="static/avatar.JPG" >
           </v-list-tile-avatar>
           <v-list-tile-content>
             <v-list-tile-title>Shieddy &hearts;</v-list-tile-title>
